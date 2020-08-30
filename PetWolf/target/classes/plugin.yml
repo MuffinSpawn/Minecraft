@@ -1,0 +1,12 @@
+name: PetWolf
+
+author: Peter Lane
+
+main: com.speaj.minecraft.petwolf.PetWolf
+
+commands:
+    petwolf:
+        description: Spawn a wolf as the player's pet.
+
+
+version: 1.0
