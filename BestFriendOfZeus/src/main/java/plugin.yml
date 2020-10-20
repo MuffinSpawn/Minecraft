@@ -1,0 +1,13 @@
+name: BestFriendOfZeus
+
+author: Peter Lane
+
+main: com.speaj.minecraft.BestFriendOfZeus
+
+commands:
+    zeus:
+        description: Automatically attack enemies with lightning.
+        usage: /<command> [on | off]
+
+
+version: 1.0
